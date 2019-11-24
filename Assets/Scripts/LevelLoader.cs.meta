@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e8be2ec7ea06a479e9ada378f62d9d67
+timeCreated: 1512250989
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Syporio: {fileID: 1354153891949244, guid: 99b4790a4ba1d41a1af73bdb077751e3, type: 2}
+  - Cop: {fileID: 1797250604114454, guid: d14cd77555d7c40ca872845fe6d23fb8, type: 2}
+  - Drop: {fileID: 1962158470733314, guid: 6fe5be6f8285f43e7a612c7ee40b933e, type: 2}
+  - _startPos: {fileID: 1767752002010540, guid: e1eb05f84d0644d7dafdd2561b4f29ed,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

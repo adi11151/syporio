@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{6E80457E-3AB1-55E0-BC2C-96A327697023}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CameraController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameManager.cs" Line="102" Column="48" />
+      <File FileName="Assets/Scripts/LevelLoader.cs" Line="18" Column="25" />
+      <File FileName="Assets/Scripts/Player.cs" Line="153" Column="8" />
+      <File FileName="Assets/Scripts/CopTrapCollider.cs" Line="7" Column="32" />
+      <File FileName="Assets/Scripts/EnemySpawnPos.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CameraController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Syporio 2D" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="CameraController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Syporio_2202D PreferredExecutionTarget="ec9d06bd-a050-4c35-9f27-d363eac4a513" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Adi/UnityProjects/Syporio 2D/Assets/Scripts/Player.cs" relfile="Assets/Scripts/Player.cs" line="167" column="1" />
+      <Breakpoint file="/Users/Adi/UnityProjects/Syporio 2D/Assets/Scripts/Player.cs" relfile="Assets/Scripts/Player.cs" line="56" column="22" />
+      <Breakpoint file="/Users/Adi/UnityProjects/Syporio 2D/Assets/ButtonRelated.cs" relfile="Assets/ButtonRelated.cs" line="22" column="1" />
+      <Breakpoint file="/Users/Adi/UnityProjects/Syporio 2D/Assets/Scripts/LevelLoader.cs" relfile="Assets/Scripts/LevelLoader.cs" line="24" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
